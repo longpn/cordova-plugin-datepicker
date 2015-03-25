@@ -29,7 +29,9 @@
 
 @implementation DatePicker
 
-#define isIPhone (UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPhone)
+//#define isIPhone (UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPhone)
+
+#define isIPhone true // As I need to show iPhone layout even on iPad
 #define ANIMATION_DURATION 0.3
 
 #pragma mark - UIDatePicker
