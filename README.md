@@ -12,12 +12,12 @@ This is a combined version of DatePicker iOS and Android plugin for Cordova/Phon
 2) Add a plugin to your project using Cordova CLI:
 
 ```bash
-cordova plugin add https://github.com/VitaliiBlagodir/cordova-plugin-datepicker
+cordova plugin add https://github.com/sordson/cordova-plugin-datepicker
 ```
 Or using PhoneGap CLI:
 
 ```bash
-phonegap local plugin add https://github.com/VitaliiBlagodir/cordova-plugin-datepicker
+phonegap local plugin add https://github.com/sordson/cordova-plugin-datepicker
 ```
 
 ## Usage
